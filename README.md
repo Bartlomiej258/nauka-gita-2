@@ -1,2 +1,2 @@
-# nauka-gita-2
+# Zadanie
 zmiana
